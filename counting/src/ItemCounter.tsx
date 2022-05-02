@@ -20,7 +20,7 @@ const ItemCounter : React.FC<ItemProps> = ({ onProcessClick, isDisabled }) => {
 
     return (
         <div>
-            <h2>{count > 10 ? "10+" : count}</h2>
+            <h2>Items: {count > 10 ? "10+" : count}</h2>
             <button onClick={handleItemAddClick} disabled={isDisabled}>Add Item</button>
             <button onClick={handleItemRemoveClick} disabled={isDisabled}>Remove Item</button>
             <button onClick={onProcessClick} disabled={isDisabled}>Process</button>
