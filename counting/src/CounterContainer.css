@@ -1,0 +1,13 @@
+.counter-container {
+    background-color: white;
+    height: 100vh;
+}
+
+.counter-container-disabled { 
+    background-color: grey;
+    height: 100vh;
+}
+
+ul {
+    margin-top: 0;
+  }
