@@ -1,7 +1,8 @@
 ## Questions 1 & 2
+In the project Directory you can find folders QuestionOne & QuestionTwo containing the relative answers. 
 
-In the project Directory you can find folders QuestionOne & QuestionTwo containing the relative answers. The answer to question 3 is in the counting folder.
-
+## Question 3
+The answer to question 3 is in the counting folder.
 
 ## Available Scripts
 
