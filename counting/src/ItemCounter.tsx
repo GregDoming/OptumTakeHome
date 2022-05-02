@@ -14,7 +14,7 @@ const ItemCounter : React.FC<ItemProps> = ({ onProcessClick, isDisabled }) => {
     }
 
     const handleItemRemoveClick = (): void => {
-        //Prevented count from going below 0 for logical reasons
+        //Prevented count from going below 0 for logical reasons could have also disabled button when count was 0
         if (count === 0) return
         setCount(count - 1)
     }
