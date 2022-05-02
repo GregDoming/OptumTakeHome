@@ -1,6 +1,6 @@
 ## Questions 1 & 2
 
-In the project Directory you can find folders QuestionOne & QuestionTwo containing the relative answers. The react application itself is the answer to Question 3.
+In the project Directory you can find folders QuestionOne & QuestionTwo containing the relative answers. The answer to question 3 is in the counting folder.
 
 
 ## Available Scripts
