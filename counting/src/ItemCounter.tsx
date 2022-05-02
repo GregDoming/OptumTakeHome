@@ -5,6 +5,7 @@ interface ItemProps {
     isDisabled: boolean
 }
 
+//Wanted to demonstrate React.FC use although is not required currently
 const ItemCounter : React.FC<ItemProps> = ({ onProcessClick, isDisabled }) => {
     const [count, setCount] = useState(0)
 
